@@ -1,0 +1,10 @@
+git+https://github.com/Rapptz/discord.py
+
+discord.py
+discord.py[voice]
+PyNaCl
+youtube_dl
+ffmpeg
+aiofiles
+requests
+Pillow
