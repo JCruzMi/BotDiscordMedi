@@ -24,7 +24,7 @@ status = cycle(['Music','Fun','Admin','&help'])
 TokenFile = open("./data/Token.txt", "r")
 TOKEN = TokenFile.read() 
 
-OWNERID = 214361684922466304
+OWNERID = 0
 
 # Definimos el "bot"
 bot = commands.Bot(command_prefix = "&", case_insensitive=True, intents=intents, help_command=None)
